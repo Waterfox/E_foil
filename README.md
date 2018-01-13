@@ -1,8 +1,8 @@
-# project_BeerWolf
+# Electric Hydrofoil Project
 
 this is an electric hydrofoil thruster design
 
-Check out the initial test run here: 
+Check out the initial test run here on a Slingshot NF2 foil. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JIKbu8u5FK8
 " target="_blank"><img src="http://img.youtube.com/vi/JIKbu8u5FK8/0.jpg" 
