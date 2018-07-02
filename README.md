@@ -3,7 +3,6 @@
 this is an electric hydrofoil thruster design
 
 Check out the initial test run here on a Slingshot NF2 foil. 
-VSeLOgUywpE
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VSeLOgUywpE
 " target="_blank"><img src="http://img.youtube.com/vi/VSeLOgUywpE/0.jpg" 
