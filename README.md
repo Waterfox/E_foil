@@ -1,6 +1,9 @@
 # Electric Hydrofoil Project
 
-this is an electric hydrofoil thruster design
+This is an electric hydrofoil thruster design.
+
+![alt text](https://github.com/Waterfox/E_foil/blob/master/R101_1.png "Thurster Render")
+
 
 Check out the initial test run here on a Slingshot NF2 foil. 
 
